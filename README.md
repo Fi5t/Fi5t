@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I don't like any `Bio` fields and usually don't fill them. But Github is my favorite "social network" and it seems a nice place to tell a couple of words about myself here.
+I don't like any `Bio` fields and usually don't fill them. But GitHub is my favorite "social network" and it seems a nice place to tell a couple of words about myself here.
 
 I've been fighting for the `Production` for over 10 years. I managed to try a bunch of things over the years. Some of these technologies can be considered dead now, but they are still in my ~heart~ head.
 
