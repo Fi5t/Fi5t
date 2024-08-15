@@ -19,7 +19,7 @@ I also like writing small useful libraries and I'll be glad to see your feedback
 
 Sometimes I write articles in Russian and English as well.
 
-- [Personal blog](https://fi5t.xyz/)[[RSS](https://fi5t.xyz/index.xml)]
+- [Personal blog](https://fi5t.xyz/) [[RSS](https://fi5t.xyz/index.xml)]
 - [Habr profile](https://habr.com/ru/users/Fi5t/publications/articles/)
 
 Besides, I'm a leader of a small community. We're interested in securing android apps. You can join us [here](https://t.me/android_guards_today) or [here](https://t.me/android_guards). Although this is a Russian-speaking community, we understand English (and Bytecode), so you're welcome.
