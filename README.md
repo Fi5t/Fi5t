@@ -20,8 +20,6 @@ I also like writing small useful libraries and I'll be glad to see your feedback
 Sometimes I write articles in Russian and English as well.
 
 - [Authenticate me. If you can… (EN)](https://habr.com/en/company/redmadrobot/blog/475112/)
-- [Elemental Design Patterns (book). My review and notes. (EN)](https://www.freedomlogic.ru/2017/08/elemental-design-patterns-book-my.html)
-- [Developer’s viewpoint on the self-development (EN)](https://www.freedomlogic.ru/2017/07/developers-viewpoint-on-self-development.html)
 - [Безопасность со вкусом Google (RU)](https://habr.com/en/company/redmadrobot/blog/452252/)
 - [Тотальная шаблонизация (RU)](https://habr.com/en/company/redmadrobot/blog/274897/)
 - [NDK c полпинка (RU)](https://habr.com/en/company/redmadrobot/blog/265117/)
