@@ -10,13 +10,6 @@ I think that I'm well versed in these areas:
 😎 Information security (+ reverse engineering)  
 🏛 Software architecutre
 
-I also like writing small useful libraries and I'll be glad to see your feedback about them.
-
-- [PINkman](https://github.com/RedMadRobot/PINkman) - PINkman is a library to help implementing an authentication by a PIN code in a secure manner
-- [Flipper](https://github.com/RedMadRobot/flipper) - Flipper is a simple and useful tool to deal with feature toggles
-- [AcronymAvatar](https://github.com/RedMadRobot/acronym-avatar) - AcronymAvatar is a dumb simple library to show avatars with acronyms in your application
-- [NimbusSRP-Android](https://github.com/Fi5t/NimbusSRP-Android) - This is a classic NimbusSRP library optimized for Android
-
 Sometimes I write articles in Russian and English as well.
 
 - [Personal blog](https://fi5t.xyz/) [[RSS](https://fi5t.xyz/index.xml)]
