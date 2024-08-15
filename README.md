@@ -19,10 +19,8 @@ I also like writing small useful libraries and I'll be glad to see your feedback
 
 Sometimes I write articles in Russian and English as well.
 
-- [Authenticate me. If you can… (EN)](https://habr.com/en/company/redmadrobot/blog/475112/)
-- [Безопасность со вкусом Google (RU)](https://habr.com/en/company/redmadrobot/blog/452252/)
-- [Тотальная шаблонизация (RU)](https://habr.com/en/company/redmadrobot/blog/274897/)
-- [NDK c полпинка (RU)](https://habr.com/en/company/redmadrobot/blog/265117/)
+- [Personal blog](https://fi5t.xyz/)
+- [Habr profile](https://habr.com/ru/users/Fi5t/publications/articles/)
 
 Moreover, if you know Russian, you can [subscribe](https://fi5t.xyz/index.xml) to my blog where I post my tough opinion about technologies, IT-processes and etc.
 
